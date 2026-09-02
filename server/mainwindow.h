@@ -3,6 +3,10 @@
 
 #include <QMainWindow>
 #include <QTcpServer>
+#include <QTcpSocket>
+#include <QDebug>
+#include <QMessageBox>
+#include <QLineEdit>
 
 class MainWindow : public QMainWindow
 {
